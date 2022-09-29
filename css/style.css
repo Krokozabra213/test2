@@ -58,7 +58,7 @@ body {
   right: 22px;
   top: 50%;
   transform: translateY(-50%);
-  background: url(/images/block1/Vector1.svg);
+  background: url(../images/block1/Vector1.svg);
 }
 .button::before {
   content: "";
@@ -69,7 +69,7 @@ body {
   height: 40px;
   top: 50%;
   transform: translateY(-50%);
-  background: url(/images/block1/Vector2.svg);
+  background: url(../images/block1/Vector2.svg);
 }
 .button:hover {
   transform: scale(1.05);
@@ -105,7 +105,7 @@ body {
 .header__body-inner {
   width: 100%;
   height: 831px;
-  background: url(/images/block1/IMAGE.webp) 0 0/100% 100%;
+  background: url(../images/block1/IMAGE.webp) 0 0/100% 100%;
 }
 .header__text-inner {
   padding: 195px 0px 250px 0px;
@@ -152,7 +152,7 @@ body {
   right: 22px;
   top: 50%;
   transform: translateY(-50%);
-  background: url(/images/block1/Vector1.svg);
+  background: url(../images/block1/Vector1.svg);
 }
 .header__btn-box .button::before {
   content: "";
@@ -163,7 +163,7 @@ body {
   height: 40px;
   top: 50%;
   transform: translateY(-50%);
-  background: url(/images/block1/Vector2.svg);
+  background: url(../images/block1/Vector2.svg);
 }
 
 .advert__inner {
@@ -595,10 +595,10 @@ body {
   align-items: center;
 }
 .join__button::before {
-  background: url(/images/button/Vector2.svg) 0 0 no-repeat;
+  background: url(../images/button/Vector2.svg) 0 0 no-repeat;
 }
 .join__button::after {
-  background: url(/images/button/Vector1.svg) 0 0 no-repeat;
+  background: url(../images/button/Vector1.svg) 0 0 no-repeat;
 }
 .join__inner {
   display: flex;
@@ -937,7 +937,7 @@ body {
     font-size: 55px;
   }
   .header__body-inner {
-    background: url(/images/block1/IMAGE.webp) 0 0/100% 63% no-repeat;
+    background: url(../images/block1/IMAGE.webp) 0 0/100% 63% no-repeat;
     margin-bottom: -300px;
   }
   .blogs__filter-item {
