@@ -1,0 +1,21 @@
+@font-face {
+  font-family: Jost;
+  font-weight: 400;
+  font-style: normal;
+  src: local("Jost"),
+       url(/fonts/Jost_Regular.eot) format('eot'),
+       url(/fonts/Jost_Regular.woff) format('woff'),
+       url(/fonts/Jost_Regular.woff2) format('woff2');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: DMSerifDisplay;
+  font-weight: 400;
+  font-style: normal;
+  src: local("DMSerifDisplay"),
+       url(/fonts/DMSerifDisplay_Regular.eot) format('eot'),
+       url(/fonts/DMSerifDisplay_Regular.woff) format('woff'),
+       url(/fonts/DMSerifDisplay_Regular.woff2) format('woff2');
+  font-display: swap;
+}
